@@ -1,0 +1,13 @@
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.csprojAssemblyReference.cache
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.csproj.CoreCompileInputs.cache
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfoInputs.cache
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.AssemblyInfo.cs
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.exe
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.deps.json
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.runtimeconfig.json
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.runtimeconfig.dev.json
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.dll
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\ConsoleApp14.pdb
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.dll
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.pdb
+G:\Coding\С#\С#2\ConsoleApp14\ConsoleApp14\obj\Debug\netcoreapp3.1\ConsoleApp14.genruntimeconfig.cache
